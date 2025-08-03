@@ -8,7 +8,7 @@
 </style>
 
 
-![Arch4Health Logo](arch4health-logo3.png){: width="50px" }
+![Arch4Health Logo](arch4health-logo3.png){: width="350px" }
 
 
 **18th (Saturday) October 2025, Seoul, Korea**
