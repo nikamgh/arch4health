@@ -7,7 +7,6 @@
   h3 { color: #15A9BA; }
 </style>
 
-![arch4health-logo](arch4health-logo.png)
 
 <a href="">
   <img 
