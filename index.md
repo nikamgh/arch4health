@@ -84,11 +84,79 @@ This workshop consists of talks on the general topic of computing system designs
 
 ## Organizers {#organizers}
 
-| Name                                                                                          | E-mail                                 |
-| --------------------------------------------------------------------------------------------- | -------------------------------------- |
-| [Nika Mansouri Ghiasi](https://sites.google.com/view/nikamansourighiasi/)                     | <nika.mansourighiasi@safari.ethz.ch>   |
-| [Dr. Konstantina Koliogeorgi](https://ihpcs.ethz.ch/people/person-detail.MzQ0MTU2.TGlzdC8zOTQxLDc2NTU1MzE0Mg==.html) | <kkoliogeorgi@ethz.ch>                 |
-| [Professor Onur Mutlu](https://people.inf.ethz.ch/omutlu/)                                   | <onur.mutlu@safari.ethz.ch>            |
+## Organizers {#organizers}
+
+<style>
+  .organizers { 
+    display: flex; 
+    flex-direction: column; 
+    gap: 2rem; 
+  }
+  .organizer {
+    display: flex;
+    align-items: flex-start;
+  }
+  .organizer .photo-name {
+    text-align: center;
+    margin-right: 1.5rem;
+  }
+  .organizer .photo-name img {
+    width: 120px;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  .organizer .photo-name p {
+    margin: 0;
+    font-weight: bold;
+  }
+  .organizer .bio {
+    flex: 1;
+  }
+  .organizer .bio p {
+    margin: 0.25rem 0;
+  }
+</style>
+
+<div class="organizers">
+
+  <div class="organizer">
+    <div class="photo-name">
+      <img src="{{ 'nika_pic.jpeg' | relative_url }}" alt="Nika Mansouri Ghiasi">
+      <p><a href="https://sites.google.com/view/nikamansourighiasi/" style="color: inherit; text-decoration: none;">Nika Mansouri Ghiasi</a></p>
+    </div>
+    <div class="bio">
+      <p>Email: <a href="mailto:nika.mansourighiasi@safari.ethz.ch">nika.mansourighiasi@safari.ethz.ch</a></p>
+      <p>Nika Mansouri Ghiasi is a PhD student in the SAFARI Research Group at ETH Zurich, advised by Professor Onur Mutlu. Her research interests are in computer architecture and computational biology, focusing on 1) storage systems, large-scale bioinformatics applications, and their interactions, and 2) emerging technologies such as ultra-dense 3D integrated systems. She is interested in designing high-performance, energy-efficient, and low-cost systems that facilitate the widespread adoption of data-intensive applications needed in healthcare and precision medicine. For more information, please see her website: bit.ly/nikamgh.
+.</p>
+    </div>
+  </div>
+
+  <div class="organizer">
+    <div class="photo-name">
+      <img src="{{ 'konstantina_pic.jpeg' | relative_url }}" alt="Dr. Konstantina Koliogeorgi">
+      <p><a href="https://ihpcs.ethz.ch/people/person-detail.MzQ0MTU2.TGlzdC8zOTQxLDc2NTU1MzE0Mg==.html" style="color: inherit; text-decoration: none;">Dr. Konstantina Koliogeorgi</a></p>
+    </div>
+    <div class="bio">
+      <p>Email: <a href="mailto:kkoliogeorgi@ethz.ch">kkoliogeorgi@ethz.ch</a></p>
+      <p>Konstantina Koliogeorgi received her Ph.D. degree in Electrical and Computer Engineering in 2023 at National Technical University of Athens (NTUA), advised by Prof. Dimitrios Soudris. She is currently a Postdoctoral Researcher at the SAFARI Research Lab at ETH Zurich, led by Prof. Onur Mutlu. Her research interests lie in the field of computer systems and architecture, heterogeneous computing, and hardware acceleration. Her research has focused on hardware-software co-design, efficient high-level synthesis optimization, and design space exploration, targeting mainly genome analysis applications.</p>
+    </div>
+  </div>
+
+  <div class="organizer">
+    <div class="photo-name">
+      <img src="{{ '/assets/images/onur_pic.jpeg' | relative_url }}" alt="Professor Onur Mutlu">
+      <p><a href="https://people.inf.ethz.ch/omutlu/" style="color: inherit; text-decoration: none;">Professor Onur Mutlu</a></p>
+    </div>
+    <div class="bio">
+      <p>Email: <a href="mailto:onur.mutlu@safari.ethz.ch">onur.mutlu@safari.ethz.ch</a></p>
+      <p>Onur Mutlu is a Professor of Computer Science at ETH Zurich. He previously held the William D. and Nancy W. Strecker Early Career Professorship at Carnegie Mellon University. His research interests are in computer architecture, computing systems, hardware security, memory & storage systems, and bioinformatics, with a major focus on designing fundamentally energy-efficient, high-performance, and robust computing systems. He started the Computer Architecture Group at Microsoft Research (2006-2009), and held product, research, and visiting positions at Intel Corporation, Advanced Micro Devices, VMware, Google, and Stanford University. He received various honors for his research, including the 2025 IEEE Computer Society Harry H. Goode Memorial Award “for seminal contributions to computer architecture research and practice, especially in memory systems.” He is an ACM Fellow, IEEE Fellow, and an elected member of the Academy of Europe. He enjoys teaching, mentoring, and enabling & democratizing access to high-quality research and education. He has supervised 24 PhD graduates, many of whom received major dissertation awards, 15 postdoctoral trainees, and more than 60 Master’s and Bachelor’s students. His computer architecture and digital logic design course lectures and materials are freely available on YouTube, and his research group makes a wide variety of artifacts freely available online. For more information, please see his webpage at https://people.inf.ethz.ch/omutlu/.</p>
+    </div>
+  </div>
+
+</div>
+
 
 ## Agenda & Materials {#agenda-materials}
 
