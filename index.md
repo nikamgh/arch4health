@@ -2,22 +2,13 @@
 
 <style>
   /* color all level-1 headings red, level-2 blue, level-3 green */
-  h1 { color: #00cca3; }
-  h2 { color: #00cca3; }
-  h3 { color: #00cca3; }
+  h1 { color: #15A9BA; }
+  h2 { color: #15A9BA; }
+  h3 { color: #15A9BA; }
 </style>
 
+![arch4health-logo](arch4health-logo.png)
 
-<div style="display:flex; align-items:center; margin-bottom:1rem;">
-  <img
-    src="{{ 'arch4health-logo.png' | relative_url }}"
-    alt="Arch4Health logo"
-    style="height:4.5rem; margin-right:0.75rem;"
-  >
-  <h1 style="margin:0;">
-    Arch4Health
-  </h1>
-</div>
 
 **18th (Saturday) October 2025, Seoul, Korea**
 
