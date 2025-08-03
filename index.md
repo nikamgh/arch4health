@@ -1,5 +1,12 @@
 <!-- index.md -->
 
+<style>
+  /* color all level-1 headings red, level-2 blue, level-3 green */
+  h1 { color: #00CCCC; }
+  h2 { color: #00CCCC; }
+  h3 { color: #00CCCC; }
+</style>
+
 
 # First Workshop on Architecture for Health (Arch4Health)
 
