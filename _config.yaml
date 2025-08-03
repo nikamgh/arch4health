@@ -1,0 +1,5 @@
+# _config.yml
+theme: cayman        # tells GitHub Pages to load the Cayman theme
+title:  Arch4Health
+description: >-
+  Arch4Health Workshop
