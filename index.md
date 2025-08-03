@@ -2,13 +2,22 @@
 
 <style>
   /* color all level-1 headings red, level-2 blue, level-3 green */
-  h1 { color: #00CCCC; }
-  h2 { color: #00CCCC; }
-  h3 { color: #00CCCC; }
+  h1 { color: #00cca3; }
+  h2 { color: #00cca3; }
+  h3 { color: #00cca3; }
 </style>
 
 
-# First Workshop on Architecture for Health (Arch4Health)
+<div style="display:flex; align-items:center; margin-bottom:1rem;">
+  <img
+    src="{{ 'arch4health-logo.png' | relative_url }}"
+    alt="Arch4Health logo"
+    style="height:2.5rem; margin-right:0.75rem;"
+  >
+  <h1 style="margin:0;">
+    First Workshop on Architecture for Health (Arch4Health)
+  </h1>
+</div>
 
 **18th (Saturday) October 2025, Seoul, Korea**
 
