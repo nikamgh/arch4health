@@ -12,10 +12,10 @@
   <img
     src="{{ 'arch4health-logo.png' | relative_url }}"
     alt="Arch4Health logo"
-    style="height:2.5rem; margin-right:0.75rem;"
+    style="height:4.5rem; margin-right:0.75rem;"
   >
   <h1 style="margin:0;">
-    First Workshop on Architecture for Health (Arch4Health)
+    Arch4Health
   </h1>
 </div>
 
