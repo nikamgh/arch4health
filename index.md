@@ -1,13 +1,9 @@
+<!-- index.md -->
 ---
 layout: default
 ---
 
-# Arch4Health
+# Hello
 
-Hello
-
-## Quick facts
-
-- No local tools needed
-- One repo = one page
-- Free hosting at `https://<your-username>.github.io`
+This page uses the **Minimal** theme.  
+Edit **index.md**, commit, and it redeploys automatically.
