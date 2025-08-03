@@ -8,13 +8,7 @@
 </style>
 
 
-<a href="">
-  <img 
-    src="{{ 'arch4health-logo3.png' | relative_url }}" 
-    alt="My logo" 
-    width="200"
-  />
-</a>
+![Arch4Health Logo](arch4health-logo3.png){: width="150px" }
 
 
 **18th (Saturday) October 2025, Seoul, Korea**
