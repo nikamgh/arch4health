@@ -32,7 +32,7 @@
   <a href="#agenda-materials">Agenda & Materials</a>
 </div>
 
-![Arch4Health Logo](arch4health-logo3.png){: width="350px" }
+![Arch4Health Logo](arch4health-logo3.png){: width="700px" }
 
 <h3 style="color: #E48158;font-style: italic;">
   A half-day workshop exploring the key computational challenges in health-related applications <br> 
