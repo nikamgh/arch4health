@@ -84,8 +84,6 @@ This workshop consists of talks on the general topic of computing system designs
 
 ## Organizers {#organizers}
 
-## Organizers {#organizers}
-
 <style>
   .organizers { 
     display: flex; 
@@ -146,7 +144,7 @@ This workshop consists of talks on the general topic of computing system designs
 
   <div class="organizer">
     <div class="photo-name">
-      <img src="{{ '/assets/images/onur_pic.jpeg' | relative_url }}" alt="Professor Onur Mutlu">
+      <img src="{{ 'onur_pic.jpeg' | relative_url }}" alt="Professor Onur Mutlu">
       <p><a href="https://people.inf.ethz.ch/omutlu/" style="color: inherit; text-decoration: none;">Professor Onur Mutlu</a></p>
     </div>
     <div class="bio">
