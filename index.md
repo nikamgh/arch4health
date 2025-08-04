@@ -92,9 +92,10 @@ This workshop consists of talks on the general topic of computing system designs
   }
   .organizer {
     display: flex;
-    align-items: flex-start;       /* ensure photo and bio align at top */
+    align-items: flex-start;       /* keep photo & bio top-aligned */
   }
   .organizer .photo-name {
+    width: 120px;                  /* FIXED WIDTH so all bios start at same x */
     text-align: center;
     margin-right: 1.5rem;
   }
@@ -113,10 +114,10 @@ This workshop consists of talks on the general topic of computing system designs
     flex: 1;
   }
   .organizer .bio p {
-    margin: 0.25rem 0;            /* spacing between bio paragraphs */
+    margin: 0.25rem 0;             /* spacing between bio paragraphs */
   }
   .organizer .bio p:first-child {
-    margin-top: 0;                /* remove top margin on first paragraph */
+    margin-top: 0;                 /* flush top margin */
   }
 </style>
 
@@ -156,5 +157,7 @@ This workshop consists of talks on the general topic of computing system designs
   </div>
 
 </div>
+
+## Agenda & Workshop Materials {#agenda-materials}
 
 TBD
