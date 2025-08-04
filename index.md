@@ -34,7 +34,7 @@
 
 ![Arch4Health Logo](arch4health-logo3.png){: width="350px" }
 
-<h3 style="color: #EE9F80;font-style: italic;">
+<h3 style="color: #E48158;font-style: italic;">
   A half-day workshop exploring the key computational challenges in health-related applications <br> 
   and the vital role of computer architecture in overcoming them to advance healthcare
 </h3>
@@ -152,7 +152,7 @@ This workshop consists of talks on the general topic of computing system designs
 
   <div class="organizer">
     <div class="photo-name">
-      <img src="{{ 'onur_pic.jpeg' | relative_url }}" alt="Professor Onur Mutlu">
+      <img src="{{ 'onur_pic.jpeg' | relative_url }}" alt="Prof. Onur Mutlu">
       <p><a href="https://people.inf.ethz.ch/omutlu/" style="color: inherit; text-decoration: none;">Professor Onur Mutlu</a></p>
     </div>
     <div class="bio">
