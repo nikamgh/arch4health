@@ -34,10 +34,10 @@
 
 ![Arch4Health Logo](arch4health-logo3.png){: width="350px" }
 
-<h2 style="color: #15BA78;font-style: italic;">
+<h3 style="color: #EE9F80;font-style: italic;">
   A half-day workshop exploring the key computational challenges in health-related applications <br> 
   and the vital role of computer architecture in overcoming them to advance healthcare
-</h2>
+</h3>
 
 **18th (Saturday) October 2025, Seoul, Korea**  
 **In conjunction with [the 58th IEEE/ACM International Symposium on Microarchitecture (MICRO 2025)](https://microarch.org/micro58/)**
