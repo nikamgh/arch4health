@@ -21,7 +21,7 @@
   /* color all level-1 headings red, level-2 blue, level-3 green */
   h1 { color: #15A9BA; }
   h2 { color: #15A9BA; }
-  h3 { color: #15A9BA; }
+  h3 { color: #1C538E; }
 </style>
 
 <div class="nav-buttons">
@@ -33,8 +33,8 @@
 </div>
 
 ![Arch4Health Logo](arch4health-logo3.png){: width="350px" }
-###A half-day workshop exploring the key computational challenges in health-related applications 
-###and the vital role of computer architecture in overcoming them to advance healthcare
+### A half-day workshop exploring the key computational challenges in health-related applications 
+### and the vital role of computer architecture in overcoming them to advance healthcare
 
 **18th (Saturday) October 2025, Seoul, Korea**  
 **In conjunction with [the 58th IEEE/ACM International Symposium on Microarchitecture (MICRO 2025)](https://microarch.org/micro58/)**
