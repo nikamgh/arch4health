@@ -242,7 +242,7 @@ We invite abstract submissions related to (but not limited to) the following top
       <td style="border: 2px solid #bbb; padding: 8px;">From Genomics to Proteomics: Architectural Solutions for Memory-Intensive Health Applications</td>
     </tr>
     <tr style="background-color: #d8ebe7; font-weight: bold;">
-      <td colspan="4" style="border: 2px solid #bbb; text-align:center; padding: 8px;">3:05–3:30 — Coffee Break ☕</td>
+      <td colspan="4" style="border: 2px solid #bbb; text-align:center; padding: 8px;">3:05–3:30 — Coffee Break </td>
     </tr>
     <tr>
       <td style="border: 2px solid #bbb; padding: 8px;">3:30–3:50</td>
@@ -278,4 +278,26 @@ We invite abstract submissions related to (but not limited to) the following top
     </tr>
   </tbody>
 </table>
+
+
+<h3 style="color:#1C538E;">📽️ Livestream</h3>
+<p>
+  For those who can't attend in person, you can join us online via the 
+  <strong>📽️ Livestream</strong>:
+  <a href="https://www.youtube.com/live/lTc_gQzFNJI" target="_blank" style="color:#15A9BA; text-decoration:none;">
+    https://www.youtube.com/live/lTc_gQzFNJI
+  </a>
+</p>
+
+<div style="margin-top: 1rem; display: flex; justify-content: center;">
+  <iframe width="720" height="405"
+          src="https://www.youtube.com/embed/lTc_gQzFNJI"
+          title="Arch4Health Livestream"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
+          style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+  </iframe>
+</div>
+
 
