@@ -167,4 +167,115 @@ We invite abstract submissions related to (but not limited to) the following top
 
 ## Agenda & Workshop Materials {#agenda-materials}
 
-TBD
+<table style="width:100%; border-collapse: collapse; text-align: left; table-layout: fixed; border: 2px solid #bbb;">
+  <colgroup>
+    <col style="width:12%;">
+    <col style="width:32%;">  <!-- wider speaker column -->
+    <col style="width:18%;">
+    <col style="width:38%;">
+  </colgroup>
+  <thead style="background-color: #15A9BA; color: white;">
+    <tr>
+      <th style="padding: 8px; border: 2px solid #bbb;">Time</th>
+      <th style="padding: 8px; border: 2px solid #bbb;">Speaker</th>
+      <th style="padding: 8px; border: 2px solid #bbb;">Domain</th>
+      <th style="padding: 8px; border: 2px solid #bbb;">Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #f2f8fa;">
+      <td style="border: 2px solid #bbb; padding: 8px;">1:00–1:05</td>
+      <td style="border: 2px solid #bbb; padding: 8px;">
+        Nika Mansouri Ghiasi<br><span style="font-style: italic;">(ETH Zurich)</span><br>
+        Dr. Konstantina Koliogeorgi<br><span style="font-style: italic;">(ETH Zurich)</span><br>
+        Prof. Onur Mutlu<br><span style="font-style: italic;">(ETH Zurich)</span>
+      </td>
+      <td style="border: 2px solid #bbb; padding: 8px;">—</td>
+      <td style="border: 2px solid #bbb; padding: 8px;">Welcome</td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid #bbb; padding: 8px;">1:05–1:25</td>
+      <td style="border: 2px solid #bbb; padding: 8px;">
+        Prof. Hunjun Lee<br><span style="font-style: italic;">(Hanyang University)</span>
+      </td>
+      <td style="border: 2px solid #bbb; padding: 8px;"><b>Brain-Computer Interfaces</b></td>
+      <td style="border: 2px solid #bbb; padding: 8px;">Pathfinding Future BCI System with Full-Stack Design Space Exploration</td>
+    </tr>
+    <tr style="background-color: #f2f8fa;">
+      <td style="border: 2px solid #bbb; padding: 8px;">1:25–1:45</td>
+      <td style="border: 2px solid #bbb; padding: 8px;">
+        Prof. Lizy John<br><span style="font-style: italic;">(UT Austin)</span>
+      </td>
+      <td style="border: 2px solid #bbb; padding: 8px;"><b>Wearables</b></td>
+      <td style="border: 2px solid #bbb; padding: 8px;">Energy-Efficient Neural Networks for Medical Wearables</td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid #bbb; padding: 8px;">1:45–2:05</td>
+      <td style="border: 2px solid #bbb; padding: 8px;">
+        Prof. Sang-Woo Jun<br><span style="font-style: italic;">(UC Irvine)</span>
+      </td>
+      <td style="border: 2px solid #bbb; padding: 8px;"><b>Genomics</b></td>
+      <td style="border: 2px solid #bbb; padding: 8px;">Addressing the Data Movement Overhead of Genomic Accelerators</td>
+    </tr>
+    <tr style="background-color: #f2f8fa;">
+      <td style="border: 2px solid #bbb; padding: 8px;">2:05–2:25</td>
+      <td style="border: 2px solid #bbb; padding: 8px;">
+        Dr. Hasindu Hasindu Gamaarachchi<br><span style="font-style: italic;">(UNSW)</span>
+      </td>
+      <td style="border: 2px solid #bbb; padding: 8px;"><b>Real-Time Genomics</b></td>
+      <td style="border: 2px solid #bbb; padding: 8px;">Algorithms &amp; Architectures for Long Read Sequence Analysis</td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid #bbb; padding: 8px;">2:25–2:45</td>
+      <td style="border: 2px solid #bbb; padding: 8px;">
+        Elton Shih<br><span style="font-style: italic;">(Cornell University)</span>
+      </td>
+      <td style="border: 2px solid #bbb; padding: 8px;"><b>Real-Time Genomics</b></td>
+      <td style="border: 2px solid #bbb; padding: 8px;">Towards an Edge Algorithm–Hardware Co-Design Framework for Adaptive Sampling</td>
+    </tr>
+    <tr style="background-color: #f2f8fa;">
+      <td style="border: 2px solid #bbb; padding: 8px;">2:45–3:05</td>
+      <td style="border: 2px solid #bbb; padding: 8px;">
+        Seunghee Han<br><span style="font-style: italic;">(KAIST)</span>
+      </td>
+      <td style="border: 2px solid #bbb; padding: 8px;"><b>Genomics &amp; Proteomics</b></td>
+      <td style="border: 2px solid #bbb; padding: 8px;">From Genomics to Proteomics: Architectural Solutions for Memory-Intensive Health Applications</td>
+    </tr>
+    <tr style="background-color: #d8ebe7; font-weight: bold;">
+      <td colspan="4" style="border: 2px solid #bbb; text-align:center; padding: 8px;">3:05–3:30 — Coffee Break ☕</td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid #bbb; padding: 8px;">3:30–3:50</td>
+      <td style="border: 2px solid #bbb; padding: 8px;">
+        Nika Mansouri Ghiasi<br><span style="font-style: italic;">(ETH Zurich)</span>
+      </td>
+      <td style="border: 2px solid #bbb; padding: 8px;"><b>(Meta)Genomics</b></td>
+      <td style="border: 2px solid #bbb; padding: 8px;">Storage-Centric Systems for Genomics and Metagenomics</td>
+    </tr>
+    <tr style="background-color: #f2f8fa;">
+      <td style="border: 2px solid #bbb; padding: 8px;">3:50–4:10</td>
+      <td style="border: 2px solid #bbb; padding: 8px;">
+        Dr. Konstantina Koliogeorgi<br><span style="font-style: italic;">(ETH Zurich)</span>
+      </td>
+      <td style="border: 2px solid #bbb; padding: 8px;"><b>Genomics</b></td>
+      <td style="border: 2px solid #bbb; padding: 8px;">MARS: Processing-In-Memory Acceleration of Raw Signal Genome Analysis Inside the Storage Subsystem</td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid #bbb; padding: 8px;">4:10–4:30</td>
+      <td style="border: 2px solid #bbb; padding: 8px;">
+        Dr. Noelia Oliete Escuin<br><span style="font-style: italic;">(BSC)</span>
+      </td>
+      <td style="border: 2px solid #bbb; padding: 8px;"><b>Genomics</b></td>
+      <td style="border: 2px solid #bbb; padding: 8px;">A Tightly-Coupled Hardware Accelerator for Fast Pattern Exact-Matching in Genome Analysis</td>
+    </tr>
+    <tr style="background-color: #f2f8fa;">
+      <td style="border: 2px solid #bbb; padding: 8px;">4:30–4:50</td>
+      <td style="border: 2px solid #bbb; padding: 8px;">
+        Dr. Lukas Breitwieser<br><span style="font-style: italic;">(CERN)</span>
+      </td>
+      <td style="border: 2px solid #bbb; padding: 8px;"><b>Agent-Based Simulation</b></td>
+      <td style="border: 2px solid #bbb; padding: 8px;">Current State and Future Directions in Scalable Agent-Based Simulation with TeraAgent</td>
+    </tr>
+  </tbody>
+</table>
+
