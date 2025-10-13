@@ -167,117 +167,122 @@ We invite abstract submissions related to (but not limited to) the following top
 
 ## Agenda & Workshop Materials {#agenda-materials}
 
-<table style="width:100%; border-collapse: collapse; text-align: left; table-layout: fixed; border: 2px solid #bbb;">
+<style>
+  /* agenda table: same look as before */
+  table.agenda { width:100%; border-collapse: collapse; table-layout: fixed; }
+  table.agenda th, table.agenda td { border: 2px solid #bbb; padding: 8px; text-align:left; }
+  table.agenda thead { background:#15A9BA; color:#fff; }
+
+  /* ensure normal text color in body */
+  table.agenda tbody { color:#000; }
+
+  /* zebra striping, applied only to session tbodies */
+  table.agenda tbody.session tr:nth-child(odd)  { background:#ffffff; }
+  table.agenda tbody.session tr:nth-child(even) { background:#f2f8fa; }
+
+  /* coffee break row keeps its own background and doesn't affect striping */
+  table.agenda tbody.break tr td {
+    background:#d8ebe7; font-weight:700; text-align:center;
+  }
+</style>
+
+<table class="agenda">
   <colgroup>
     <col style="width:12%;">
     <col style="width:32%;">  <!-- wider speaker column -->
     <col style="width:18%;">
     <col style="width:38%;">
   </colgroup>
-  <thead style="background-color: #15A9BA; color = white;">
+
+  <thead>
     <tr>
-      <th style="padding: 8px; border: 2px solid #bbb;">Time</th>
-      <th style="padding: 8px; border: 2px solid #bbb;">Speaker</th>
-      <th style="padding: 8px; border: 2px solid #bbb;">Domain</th>
-      <th style="padding: 8px; border: 2px solid #bbb;">Title</th>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Domain</th>
+      <th>Title</th>
     </tr>
   </thead>
-  <tbody>
-    <tr style="background-color: #f2f8fa;">
-      <td style="border: 2px solid #bbb; padding: 8px;">1:00–1:05</td>
-      <td style="border: 2px solid #bbb; padding: 8px;">
-        Nika Mansouri Ghiasi<br><span style="font-style: italic;">(ETH Zurich)</span><br>
-        Dr. Konstantina Koliogeorgi<br><span style="font-style: italic;">(ETH Zurich)</span><br>
-        Prof. Onur Mutlu<br><span style="font-style: italic;">(ETH Zurich)</span>
-      </td>
-      <td style="border: 2px solid #bbb; padding: 8px;">—</td>
-      <td style="border: 2px solid #bbb; padding: 8px;">Welcome</td>
+
+  <!-- BEFORE BREAK (keeps the beauty + borders) -->
+  <tbody class="session">
+    <tr>
+      <td>1:00–1:05</td>
+      <td>Nika Mansouri Ghiasi<br><i>(ETH Zurich)</i><br>Dr. Konstantina Koliogeorgi<br><i>(ETH Zurich)</i><br>Prof. Onur Mutlu<br><i>(ETH Zurich)</i></td>
+      <td>—</td>
+      <td>Welcome</td>
     </tr>
     <tr>
-      <td style="border: 2px solid #bbb; padding: 8px;">1:05–1:25</td>
-      <td style="border: 2px solid #bbb; padding: 8px;">
-        Prof. Hunjun Lee<br><span style="font-style: italic;">(Hanyang University)</span>
-      </td>
-      <td style="border: 2px solid #bbb; padding: 8px;"><b>Brain-Computer Interfaces</b></td>
-      <td style="border: 2px solid #bbb; padding: 8px;">Pathfinding Future BCI System with Full-Stack Design Space Exploration</td>
-    </tr>
-    <tr style="background-color: #f2f8fa;">
-      <td style="border: 2px solid #bbb; padding: 8px;">1:25–1:45</td>
-      <td style="border: 2px solid #bbb; padding: 8px;">
-        Prof. Lizy John<br><span style="font-style: italic;">(UT Austin)</span>
-      </td>
-      <td style="border: 2px solid #bbb; padding: 8px;"><b>Wearables</b></td>
-      <td style="border: 2px solid #bbb; padding: 8px;">Energy-Efficient Neural Networks for Medical Wearables</td>
+      <td>1:05–1:25</td>
+      <td>Prof. Hunjun Lee<br><i>(Hanyang University)</i></td>
+      <td><b>Brain-Computer Interfaces</b></td>
+      <td>Pathfinding Future BCI System with Full-Stack Design Space Exploration</td>
     </tr>
     <tr>
-      <td style="border: 2px solid #bbb; padding: 8px;">1:45–2:05</td>
-      <td style="border: 2px solid #bbb; padding: 8px;">
-        Prof. Sang-Woo Jun<br><span style="font-style: italic;">(UC Irvine)</span>
-      </td>
-      <td style="border: 2px solid #bbb; padding: 8px;"><b>Genomics</b></td>
-      <td style="border: 2px solid #bbb; padding: 8px;">Addressing the Data Movement Overhead of Genomic Accelerators</td>
-    </tr>
-    <tr style="background-color: #f2f8fa;">
-      <td style="border: 2px solid #bbb; padding: 8px;">2:05–2:25</td>
-      <td style="border: 2px solid #bbb; padding: 8px;">
-        Dr. Hasindu Hasindu Gamaarachchi<br><span style="font-style: italic;">(UNSW)</span>
-      </td>
-      <td style="border: 2px solid #bbb; padding: 8px;"><b>Real-Time Genomics</b></td>
-      <td style="border: 2px solid #bbb; padding: 8px;">Algorithms &amp; Architectures for Long Read Sequence Analysis</td>
+      <td>1:25–1:45</td>
+      <td>Prof. Lizy John<br><i>(UT Austin)</i></td>
+      <td><b>Wearables</b></td>
+      <td>Energy-Efficient Neural Networks for Medical Wearables</td>
     </tr>
     <tr>
-      <td style="border: 2px solid #bbb; padding: 8px;">2:25–2:45</td>
-      <td style="border: 2px solid #bbb; padding: 8px;">
-        Elton Shih<br><span style="font-style: italic;">(Cornell University)</span>
-      </td>
-      <td style="border: 2px solid #bbb; padding: 8px;"><b>Real-Time Genomics</b></td>
-      <td style="border: 2px solid #bbb; padding: 8px;">Towards an Edge Algorithm–Hardware Co-Design Framework for Adaptive Sampling</td>
-    </tr>
-    <tr style="background-color: #f2f8fa;">
-      <td style="border: 2px solid #bbb; padding: 8px;">2:45–3:05</td>
-      <td style="border: 2px solid #bbb; padding: 8px;">
-        Seunghee Han<br><span style="font-style: italic;">(KAIST)</span>
-      </td>
-      <td style="border: 2px solid #bbb; padding: 8px;"><b>Genomics &amp; Proteomics</b></td>
-      <td style="border: 2px solid #bbb; padding: 8px;">From Genomics to Proteomics: Architectural Solutions for Memory-Intensive Health Applications</td>
-    </tr>
-    <tr style="background-color: #d8ebe7; font-weight: bold;">
-      <td colspan="4" style="border: 2px solid #bbb; text-align:center; padding: 8px;">3:05–3:30 — Coffee Break </td>
+      <td>1:45–2:05</td>
+      <td>Prof. Sang-Woo Jun<br><i>(UC Irvine)</i></td>
+      <td><b>Genomics</b></td>
+      <td>Addressing the Data Movement Overhead of Genomic Accelerators</td>
     </tr>
     <tr>
-      <td style="border: 2px solid #bbb; padding: 8px;">3:30–3:50</td>
-      <td style="border: 2px solid #bbb; padding: 8px;">
-        Nika Mansouri Ghiasi<br><span style="font-style: italic;">(ETH Zurich)</span>
-      </td>
-      <td style="border: 2px solid #bbb; padding: 8px;"><b>(Meta)Genomics</b></td>
-      <td style="border: 2px solid #bbb; padding: 8px;">Storage-Centric Systems for Genomics and Metagenomics</td>
-    </tr>
-    <tr style="background-color: #f2f8fa;">
-      <td style="border: 2px solid #bbb; padding: 8px;">3:50–4:10</td>
-      <td style="border: 2px solid #bbb; padding: 8px;">
-        Dr. Konstantina Koliogeorgi<br><span style="font-style: italic;">(ETH Zurich)</span>
-      </td>
-      <td style="border: 2px solid #bbb; padding: 8px;"><b>Genomics</b></td>
-      <td style="border: 2px solid #bbb; padding: 8px;">MARS: Processing-In-Memory Acceleration of Raw Signal Genome Analysis Inside the Storage Subsystem</td>
+      <td>2:05–2:25</td>
+      <td>Dr. Hasindu Hasindu Gamaarachchi<br><i>(UNSW)</i></td>
+      <td><b>Real-Time Genomics</b></td>
+      <td>Algorithms &amp; Architectures for Long Read Sequence Analysis</td>
     </tr>
     <tr>
-      <td style="border: 2px solid #bbb; padding: 8px;">4:10–4:30</td>
-      <td style="border: 2px solid #bbb; padding: 8px;">
-        Dr. Noelia Oliete Escuin<br><span style="font-style: italic;">(BSC)</span>
-      </td>
-      <td style="border: 2px solid #bbb; padding: 8px;"><b>Genomics</b></td>
-      <td style="border: 2px solid #bbb; padding: 8px;">A Tightly-Coupled Hardware Accelerator for Fast Pattern Exact-Matching in Genome Analysis</td>
+      <td>2:25–2:45</td>
+      <td>Elton Shih<br><i>(Cornell University)</i></td>
+      <td><b>Real-Time Genomics</b></td>
+      <td>Towards an Edge Algorithm–Hardware Co-Design Framework for Adaptive Sampling</td>
     </tr>
-    <tr style="background-color: #f2f8fa;">
-      <td style="border: 2px solid #bbb; padding: 8px;">4:30–4:50</td>
-      <td style="border: 2px solid #bbb; padding: 8px;">
-        Dr. Lukas Breitwieser<br><span style="font-style: italic;">(CERN)</span>
-      </td>
-      <td style="border: 2px solid #bbb; padding: 8px;"><b>Agent-Based Simulation</b></td>
-      <td style="border: 2px solid #bbb; padding: 8px;">Current State and Future Directions in Scalable Agent-Based Simulation with TeraAgent</td>
+    <tr>
+      <td>2:45–3:05</td>
+      <td>Seunghee Han<br><i>(KAIST)</i></td>
+      <td><b>Genomics &amp; Proteomics</b></td>
+      <td>From Genomics to Proteomics: Architectural Solutions for Memory-Intensive Health Applications</td>
+    </tr>
+  </tbody>
+
+  <!-- BREAK (isolated so striping restarts cleanly) -->
+  <tbody class="break">
+    <tr><td colspan="4">3:05–3:30 — Coffee Break ☕</td></tr>
+  </tbody>
+
+  <!-- AFTER BREAK (same borders + zebra, no washed-out rows) -->
+  <tbody class="session">
+    <tr>
+      <td>3:30–3:50</td>
+      <td>Nika Mansouri Ghiasi<br><i>(ETH Zurich)</i></td>
+      <td><b>(Meta)Genomics</b></td>
+      <td>Storage-Centric Systems for Genomics and Metagenomics</td>
+    </tr>
+    <tr>
+      <td>3:50–4:10</td>
+      <td>Dr. Konstantina Koliogeorgi<br><i>(ETH Zurich)</i></td>
+      <td><b>Genomics</b></td>
+      <td>MARS: Processing-In-Memory Acceleration of Raw Signal Genome Analysis Inside the Storage Subsystem</td>
+    </tr>
+    <tr>
+      <td>4:10–4:30</td>
+      <td>Dr. Noelia Oliete Escuin<br><i>(Barcelona Supercomputing Center, BSC)</i></td>
+      <td><b>Genomics</b></td>
+      <td>A Tightly-Coupled Hardware Accelerator for Fast Pattern Exact-Matching in Genome Analysis</td>
+    </tr>
+    <tr>
+      <td>4:30–4:50</td>
+      <td>Dr. Lukas Breitwieser<br><i>(CERN)</i></td>
+      <td><b>Agent-Based Simulation</b></td>
+      <td>Current State and Future Directions in Scalable Agent-Based Simulation with TeraAgent</td>
     </tr>
   </tbody>
 </table>
+
 
 
 <h3 style="color:#1C538E;">📽️ Livestream</h3>
