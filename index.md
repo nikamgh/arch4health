@@ -174,7 +174,7 @@ We invite abstract submissions related to (but not limited to) the following top
     <col style="width:18%;">
     <col style="width:38%;">
   </colgroup>
-  <thead style="background-color: #15A9BA; color: white;">
+  <thead style="background-color: #15A9BA;">
     <tr>
       <th style="padding: 8px; border: 2px solid #bbb;">Time</th>
       <th style="padding: 8px; border: 2px solid #bbb;">Speaker</th>
