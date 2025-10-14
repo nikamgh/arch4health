@@ -270,7 +270,7 @@ We invite abstract submissions related to (but not limited to) the following top
     </tr>
     <tr>
       <td>4:10–4:30</td>
-      <td>Dr. Noelia Oliete Escuin<br><i>(Barcelona Supercomputing Center, BSC)</i></td>
+      <td>Dr. Noelia Oliete Escuin<br><i>(BSC)</i></td>
       <td><b>Genomics</b></td>
       <td>A Tightly-Coupled Hardware Accelerator for Fast Pattern Exact-Matching in Genome Analysis</td>
     </tr>
