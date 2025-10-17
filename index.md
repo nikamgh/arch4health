@@ -171,7 +171,7 @@ We invite abstract submissions related to (but not limited to) the following top
   /* agenda table: same look as before */
   table.agenda { width:100%; border-collapse: collapse; table-layout: fixed; }
   table.agenda th, table.agenda td { border: 2px solid #bbb; padding: 8px; text-align:left; }
-  table.agenda thead { background:#15A9BA; color:#000; }
+  table.agenda thead { background:#15A9BB; color:#000; }  /* updated turquoise */
 
   /* ensure normal text color in body */
   table.agenda tbody { color:#000; }
