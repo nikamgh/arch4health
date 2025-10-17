@@ -231,7 +231,7 @@ We invite abstract submissions related to (but not limited to) the following top
     </tr>
     <tr>
       <td>2:05–2:25</td>
-      <td>Dr. Hasindu Hasindu Gamaarachchi<br><i>(UNSW)</i></td>
+      <td>Dr. Hasindu Gamaarachchi<br><i>(UNSW)</i></td>
       <td><b>Real-Time Genomics</b></td>
       <td>Algorithms &amp; Architectures for Long Read Sequence Analysis</td>
     </tr>
@@ -251,7 +251,7 @@ We invite abstract submissions related to (but not limited to) the following top
 
   <!-- BREAK (isolated so striping restarts cleanly) -->
   <tbody class="break">
-    <tr><td colspan="4">3:05–3:30 — Coffee Break ☕</td></tr>
+    <tr><td colspan="4">3:05–3:30 — Coffee Break </td></tr>
   </tbody>
 
   <!-- AFTER BREAK (same borders + zebra, no washed-out rows) -->
